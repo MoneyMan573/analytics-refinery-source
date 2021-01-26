@@ -273,7 +273,7 @@
         <configuration>
           <source>${java.version}</source>
           <target>${java.version}</target>
-          <compilerArgument />
+          <compilerArgument/>
         </configuration>
       </plugin>
 
@@ -433,7 +433,7 @@
       <scala.version>2.11.7</scala.version>
       <spark.version>2.4.4</spark.version>
       <camus.version>0.1.0-wmf12</camus.version>
-      <guava.version>16.0</guava.version>
+      <guava.version>16.0.1</guava.version>
     </properties>
 
   </project>
